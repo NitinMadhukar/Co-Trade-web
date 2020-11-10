@@ -1,42 +1,27 @@
 {
-  "name": "stock-market-india",
+  "name": "stock",
   "version": "1.0.0",
-  "description": "\"An API Library which fetches data from Bombay Stock Exchange and National Stock Exchange and returns data in JSON format.\"",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js 3000"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maanavshah/stock-market-india.git"
+    "url": "git+https://github.com/ujjwal-batra/Stock.git"
   },
-  "keywords": [
-    "api",
-    "indian",
-    "stock",
-    "market",
-    "exchange",
-    "api",
-    "BSE",
-    "NSE",
-    "node",
-    "express"
-  ],
-  "author": "Maanav Shah",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maanavshah/stock-market-india/issues"
+    "url": "https://github.com/ujjwal-batra/Stock/issues"
   },
-  "homepage": "https://github.com/maanavshah/stock-market-india#readme",
+  "homepage": "https://github.com/ujjwal-batra/Stock#readme",
   "dependencies": {
-    "axios": "^0.18.1",
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "indian-stock-exchange": "^1.3.33",
-    "node": "^13.10.1",
-    "loadash": "^1.0.0"
-  },
-  "engines": {
-    "node": "^13.10.1"
+    "express-session": "^1.17.1",
+    "firebase": "^8.0.0",
+    "nodemon": "^2.0.6",
+    "pug": "^3.0.0"
   }
 }

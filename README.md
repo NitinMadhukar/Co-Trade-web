@@ -10,13 +10,12 @@ Sign Up             |  Sign In
 Stock Search            |  
 :-------------------------:|
 
-![](webscreenshots/Home.png)  |
+![](webscreenshots/home.png)  |
 
 Trader Profile
 :-------------------------:|
 ![](webscreenshots/feed.jpg)
 
- :-------------------------:
 Stock card            |   
 :-------------------------:| 
 ![](webscreenshots/stock.png)   

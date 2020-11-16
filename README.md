@@ -9,8 +9,7 @@ Sign Up             |  Sign In
 
 Stock Search            |  
 :-------------------------:|
-
-![](webscreenshots/home.png)  |
+![](webscreenshots/home.png)  
 
 Trader Profile
 :-------------------------:|

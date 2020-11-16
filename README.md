@@ -7,10 +7,16 @@ Sign Up             |  Sign In
 :-------------------------:|:-------------------------:
 ![](webscreenshots/signup.png)  |  ![](webscreenshots/login.png)
 
-Stock Search            |   Trader Profile
-:-------------------------:|:-------------------------:
-![](webscreenshots/Home.png)  |  ![](webscreenshots/feed.jpg)
+Stock Search            |  
+:-------------------------:|
 
+![](webscreenshots/Home.png)  |
+
+Trader Profile
+:-------------------------:|
+![](webscreenshots/feed.jpg)
+
+ :-------------------------:
 Stock card            |   
 :-------------------------:| 
 ![](webscreenshots/stock.png)   
